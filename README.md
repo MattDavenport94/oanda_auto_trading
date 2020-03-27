@@ -1,0 +1,1 @@
+Simple moving crossover algorithm
